@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img alt="Metacrypt Logo" src="../content/metacrypt-logo.png" width="auto" height="120">
+    <img alt="Metacrypt Logo" src="https://raw.githubusercontent.com/0xMetacrypt/.github/main/content/metacrypt-logo.png" width="auto" height="120">
   </picture>
 </p>
 <h2 align="center">
